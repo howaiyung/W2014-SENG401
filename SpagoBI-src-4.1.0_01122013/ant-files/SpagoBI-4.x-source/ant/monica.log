@@ -1,0 +1,372 @@
+Buildfile: build.xml
+
+svn.checkout:
+
+clean:
+   [delete] Deleting directory /home/spagobi/SpagoBI-4.0-source/QbeCore/ant-build
+
+init:
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/QbeCore/ant-build
+
+svn.checkout:
+     [exec] Checked out revision 21023.
+
+clean:
+   [delete] Deleting directory /home/spagobi/SpagoBI-4.0-source/SpagoBIBirtReportEngine/ant-build
+
+init:
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIBirtReportEngine/ant-build
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIBirtReportEngine/ant-build/SpagoBIBirtReportEngine/WEB-INF/classes
+
+svn.checkout:
+     [exec] Checked out revision 21023.
+
+clean:
+   [delete] Deleting directory /home/spagobi/SpagoBI-4.0-source/SpagoBIExoSecurityProvider/ant-build
+
+init:
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIExoSecurityProvider/ant-build
+
+svn.checkout:
+     [exec] Checked out revision 21023.
+
+clean:
+   [delete] Deleting directory /home/spagobi/SpagoBI-4.0-source/SpagoBIGeoEngine/ant-build
+
+init:
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIGeoEngine/ant-build
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIGeoEngine/ant-build/SpagoBIGeoEngine/WEB-INF/classes
+
+svn.checkout:
+     [exec] Checked out revision 21023.
+
+clean:
+   [delete] Deleting directory /home/spagobi/SpagoBI-4.0-source/SpagoBIGeoReportEngine/ant-build
+
+init:
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIGeoReportEngine/ant-build
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIGeoReportEngine/ant-build/SpagoBIGeoReportEngine/WEB-INF/classes
+
+svn.checkout:
+     [exec] Checked out revision 21023.
+
+clean:
+   [delete] Deleting directory /home/spagobi/SpagoBI-4.0-source/SpagoBIJasperReportEngine/ant-build
+
+init:
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIJasperReportEngine/ant-build
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIJasperReportEngine/ant-build/SpagoBIJasperReportEngine/WEB-INF/classes
+
+svn.checkout:
+     [exec] Checked out revision 21023.
+
+clean:
+   [delete] Deleting directory /home/spagobi/SpagoBI-4.0-source/SpagoBIJPaloEngine/ant-build
+
+init:
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIJPaloEngine/ant-build
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIJPaloEngine/ant-build/SpagoBIJPaloEngine/WEB-INF/classes
+
+svn.checkout:
+     [exec] Checked out revision 21023.
+
+clean:
+   [delete] Deleting directory /home/spagobi/SpagoBI-4.0-source/SpagoBIJPivotEngine/ant-build
+
+init:
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIJPivotEngine/ant-build
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIJPivotEngine/ant-build/SpagoBIJPivotEngine/WEB-INF/classes
+
+svn.checkout:
+     [exec] Checked out revision 21023.
+
+clean:
+   [delete] Deleting directory /home/spagobi/SpagoBI-4.0-source/SpagoBIProject/ant-build
+
+init:
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIProject/ant-build
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIProject/ant-build/SpagoBI/WEB-INF/classes
+
+svn.checkout:
+     [exec] Restored 'web-content/js/src/ext4/sbi/tools/dataset/ValidateDatasetGrid.js'
+     [exec] U    web-content/js/src/ext4/sbi/tools/dataset/ValidateDatasetGrid.js
+     [exec] U    web-content/js/src/ext4/sbi/tools/dataset/DataSetsWizard.js
+     [exec] U    web-content/js/src/ext4/sbi/tools/dataset/DataSetsBrowser.js
+     [exec] U    web-content/js/src/ext4/sbi/tools/dataset/ValidateDataset.js
+     [exec] U    web-content/js/src/ext4/sbi/tools/dataset/ManageDatasetFieldMetadata.js
+     [exec] U    web-content/js/src/ext4/sbi/tools/datasource/DataSourceListDetailPanel.js
+     [exec] U    web-content/js/src/ext4/sbi/tools/datasource/DataSourceModel.js
+     [exec] U    web-content/js/src/ext4/sbi/tools/datasource/DataSourceDetailPanel.js
+     [exec] U    web-content/js/src/ext4/sbi/execution/SaveDocumentWindowsExt4.js
+     [exec] U    web-content/js/src/ext4/sbi/widgets/wizard/WizardWindow.js
+     [exec] U    web-content/js/src/ext4/sbi/widgets/grid/DynamicGridPanel.js
+     [exec] U    web-content/js/src/ext4/sbi/widgets/store/InMemoryFilteredStore.js
+     [exec] U    web-content/js/src/ext4/sbi/widgets/store/DynamicStore.js
+     [exec]  U   web-content/js
+     [exec] A    web-content/TEST.txt
+     [exec]  U   web-content
+     [exec] U    src/MessageFiles/messages_es_ES.properties
+     [exec] U    src/MessageFiles/messages_fr_FR.properties
+     [exec] U    src/MessageFiles/component_spagobidocumentcompositionIE_messages_it_IT.properties
+     [exec] U    src/MessageFiles/messages_en_US.properties
+     [exec] U    src/MessageFiles/component_impexp_messages_it_IT.properties
+     [exec] U    src/MessageFiles/component_spagobidocumentcompositionIE_messages_es_ES.properties
+     [exec] U    src/MessageFiles/component_spagobidocumentcompositionIE_messages_fr_FR.properties
+     [exec] U    src/MessageFiles/component_spagobidocumentcompositionIE_messages_en_US.properties
+     [exec] U    src/MessageFiles/component_impexp_messages_fr_FR.properties
+     [exec] U    src/MessageFiles/component_impexp_messages_es_ES.properties
+     [exec] U    src/MessageFiles/messages_it_IT.properties
+     [exec] U    src/MessageFiles/component_impexp_messages_en_US.properties
+     [exec] U    src/it/eng/spagobi/analiticalmodel/execution/service/CreateDatasetForWorksheetAction.java
+     [exec] U    src/it/eng/spagobi/analiticalmodel/execution/service/SaveDocumentAction.java
+     [exec] U    src/it/eng/spagobi/analiticalmodel/execution/service/SelectDatasetAction.java
+     [exec] U    src/it/eng/spagobi/analiticalmodel/document/bo/Snapshot.java
+     [exec] U    src/it/eng/spagobi/analiticalmodel/document/metadata/mapping/SbiSnapshots.hbm.xml
+     [exec] U    src/it/eng/spagobi/analiticalmodel/document/metadata/SbiSnapshots.java
+     [exec] U    src/it/eng/spagobi/analiticalmodel/document/service/GetSnapshotContentAction.java
+     [exec] U    src/it/eng/spagobi/analiticalmodel/document/utils/DetBIObjModHelper.java
+     [exec] U    src/it/eng/spagobi/analiticalmodel/document/dao/SnapshotDAOHibImpl.java
+     [exec] U    src/it/eng/spagobi/analiticalmodel/document/dao/ISnapshotDAO.java
+     [exec] U    src/it/eng/spagobi/services/content/service/MapCatalogueImpl.java
+     [exec] U    src/it/eng/spagobi/services/content/service/PublishImpl.java
+     [exec] U    src/it/eng/spagobi/services/content/service/ContentServiceImpl.java
+     [exec] U    src/it/eng/spagobi/services/datasource/service/DataSourceSupplier.java
+     [exec] U    src/it/eng/spagobi/services/datasource/stub/deploy.wsdd
+     [exec] U    src/it/eng/spagobi/services/datasource/stub/DataSourceServiceSoapBindingSkeleton.java
+     [exec] U    src/it/eng/spagobi/community/dao/SbiCommunityDAOImpl.java
+     [exec] U    src/it/eng/spagobi/community/mapping/SbiCommunity.hbm.xml
+     [exec] U    src/it/eng/spagobi/community/mapping/SbiCommunityUsers.hbm.xml
+     [exec] U    src/it/eng/spagobi/engines/config/bo/Engine.java
+     [exec] U    src/it/eng/spagobi/engines/config/metadata/SbiEngines.java
+     [exec] U    src/it/eng/spagobi/engines/config/metadata/mapping/SbiEngines.hbm.xml
+     [exec] U    src/it/eng/spagobi/engines/config/service/DetailEngineModule.java
+     [exec] U    src/it/eng/spagobi/engines/config/dao/EngineDAOHibImpl.java
+     [exec] U    src/it/eng/spagobi/engines/drivers/qbe/QbeDriver.java
+     [exec] U    src/it/eng/spagobi/engines/drivers/worksheet/WorksheetDriver.java
+     [exec] U    src/it/eng/spagobi/engines/drivers/generic/GenericDriver.java
+     [exec] U    src/it/eng/spagobi/tools/files/service/ManageFileAction.java
+     [exec] U    src/it/eng/spagobi/tools/dataset/metadata/SbiDataSetId.java
+     [exec] U    src/it/eng/spagobi/tools/dataset/metadata/SbiDataSet.java
+     [exec] U    src/it/eng/spagobi/tools/dataset/metadata/mapping/SbiDataSet.hbm.xml
+     [exec] U    src/it/eng/spagobi/tools/dataset/service/ManageDatasets.java
+     [exec] U    src/it/eng/spagobi/tools/dataset/service/UploadDatasetFileAction.java
+     [exec] U    src/it/eng/spagobi/tools/dataset/service/SelfServiceDatasetStartAction.java
+     [exec] U    src/it/eng/spagobi/tools/dataset/service/rest/SelfServiceDataSetCRUD.java
+     [exec] U    src/it/eng/spagobi/tools/dataset/dao/IDataSetDAO.java
+     [exec] U    src/it/eng/spagobi/tools/dataset/dao/DataSetDAOImpl.java
+     [exec] U    src/it/eng/spagobi/tools/dataset/dao/DataSetFactory.java
+     [exec] U    src/it/eng/spagobi/tools/dataset/measurecatalogue/MeasureCatalogue.java
+     [exec] U    src/it/eng/spagobi/tools/dataset/measurecatalogue/MeasureCatalogueSearchManager.java
+     [exec] A    src/it/eng/spagobi/tools/dataset/normalization
+     [exec] A    src/it/eng/spagobi/tools/dataset/normalization/IDatasetNormalizer.java
+     [exec] A    src/it/eng/spagobi/tools/dataset/normalization/GeoSpatialDimensionDatasetNormalizer.java
+     [exec] A    src/it/eng/spagobi/tools/dataset/normalization/XLSFileNormalizer.java
+     [exec] A    src/it/eng/spagobi/tools/dataset/normalization/CSVFileNormalizer.java
+     [exec] U    src/it/eng/spagobi/tools/dataset/validation/TimeDimensionDatasetValidator.java
+     [exec] U    src/it/eng/spagobi/tools/dataset/validation/DatasetFieldsValidator.java
+     [exec] U    src/it/eng/spagobi/tools/dataset/validation/GeoSpatialDimensionDatasetValidator.java
+     [exec] U    src/it/eng/spagobi/tools/dataset/constants/DataSetConstants.java
+     [exec] U    src/it/eng/spagobi/tools/notification/DatasetNotificationEvent.java
+     [exec] U    src/it/eng/spagobi/tools/datasource/metadata/SbiDataSource.java
+     [exec] U    src/it/eng/spagobi/tools/datasource/metadata/mapping/SbiDataSource.hbm.xml
+     [exec] U    src/it/eng/spagobi/tools/datasource/service/DetailDataSourceModule.java
+     [exec] U    src/it/eng/spagobi/tools/datasource/service/rest/DataSourceCRUD.java
+     [exec] U    src/it/eng/spagobi/tools/datasource/dao/DataSourceDAOHibImpl.java
+     [exec] U    src/it/eng/spagobi/tools/datasource/dao/IDataSourceDAO.java
+     [exec] U    src/it/eng/spagobi/tools/importexport/metadata/exportdb/metadata.script
+     [exec] U    src/it/eng/spagobi/tools/importexport/metadata/SbiObjects.hbm.xml
+     [exec] U    src/it/eng/spagobi/tools/importexport/metadata/SbiSnapshots.hbm.xml
+     [exec] U    src/it/eng/spagobi/tools/importexport/metadata/SbiDataSet.hbm.xml
+     [exec] U    src/it/eng/spagobi/tools/importexport/metadata/SbiDataSource.hbm.xml
+     [exec] U    src/it/eng/spagobi/tools/importexport/metadata/SbiEngines.hbm.xml
+     [exec] U    src/it/eng/spagobi/tools/importexport/ImporterMetadata.java
+     [exec] U    src/it/eng/spagobi/tools/importexport/transformers/TransformerFrom4_0_0To4_1_0.java
+     [exec] U    src/it/eng/spagobi/tools/importexport/ImportManager.java
+     [exec] U    src/it/eng/spagobi/tools/importexport/ImportUtilities.java
+     [exec] U    src/it/eng/spagobi/tools/importexport/ExporterMetadata.java
+     [exec] U    src/it/eng/spagobi/tools/importexport/ExportManager.java
+     [exec] U    src/it/eng/spagobi/tools/scheduler/dispatcher/SnapshootDocumentDispatchChannel.java
+     [exec] U    src/it/eng/spagobi/tools/scheduler/jobs/CopyOfExecuteBIDocumentJob.java
+     [exec] U    src/it/eng/spagobi/adhocreporting/services/StartCreatingWorksheetFromDatasetAction.java
+     [exec] U    src/it/eng/spagobi/commons/deserializer/EngineJSONDeserializer.java
+     [exec] U    src/it/eng/spagobi/commons/initializers/metadata/config/configs.xml
+     [exec] U    src/it/eng/spagobi/commons/serializer/DataSetJSONSerializer.java
+     [exec] U    src/it/eng/spagobi/commons/serializer/EngineJSONSerializer.java
+     [exec] U    src/it/eng/spagobi/commons/serializer/DataSourceJSONSerializer.java
+     [exec] U    MessageFiles/messages_es_ES.properties
+     [exec] U    MessageFiles/messages_fr_FR.properties
+     [exec] U    MessageFiles/component_spagobidocumentcompositionIE_messages_it_IT.properties
+     [exec] U    MessageFiles/messages_en_US.properties
+     [exec] U    MessageFiles/component_impexp_messages_it_IT.properties
+     [exec] U    MessageFiles/component_spagobidocumentcompositionIE_messages_es_ES.properties
+     [exec] U    MessageFiles/component_spagobidocumentcompositionIE_messages_fr_FR.properties
+     [exec] U    MessageFiles/js/es.js
+     [exec] U    MessageFiles/js/fr.js
+     [exec] U    MessageFiles/js/it.js
+     [exec] U    MessageFiles/js/en.js
+     [exec] U    MessageFiles/component_spagobidocumentcompositionIE_messages_en_US.properties
+     [exec] U    MessageFiles/component_impexp_messages_fr_FR.properties
+     [exec] U    MessageFiles/component_impexp_messages_es_ES.properties
+     [exec] U    MessageFiles/messages_it_IT.properties
+     [exec] U    MessageFiles/component_impexp_messages_en_US.properties
+     [exec] U    wsdl/dataset.wsdl
+     [exec] U    wsdl/datasource.wsdl
+     [exec]  U   .
+     [exec] Checked out revision 21023.
+
+clean:
+   [delete] Deleting directory /home/spagobi/SpagoBI-4.0-source/SpagoBIQbeEngine/ant-build
+
+init:
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIQbeEngine/ant-build
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIQbeEngine/ant-build/SpagoBIQbeEngine/WEB-INF/classes
+
+svn.checkout:
+     [exec] Checked out revision 21023.
+
+clean:
+   [delete] Deleting directory /home/spagobi/SpagoBI-4.0-source/SpagoBITalendEngine/ant-build
+
+init:
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBITalendEngine/ant-build
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBITalendEngine/ant-build/SpagoBITalendEngine/WEB-INF/classes
+
+svn.checkout:
+     [exec] Checked out revision 21023.
+
+clean:
+   [delete] Deleting directory /home/spagobi/SpagoBI-4.0-source/SpagoBIUtils/ant-build
+
+init:
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIUtils/ant-build
+
+svn.checkout:
+     [exec] Checked out revision 21023.
+
+clean:
+   [delete] Deleting directory /home/spagobi/SpagoBI-4.0-source/SpagoBIUtilsJSON/ant-build
+
+init:
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIUtilsJSON/ant-build
+
+svn.checkout:
+     [exec] Checked out revision 21023.
+
+clean:
+   [delete] Deleting directory /home/spagobi/SpagoBI-4.0-source/SpagoBIWekaEngine/ant-build
+
+init:
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIWekaEngine/ant-build
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIWekaEngine/ant-build/SpagoBIWekaEngine/WEB-INF/classes
+
+svn.checkout:
+     [exec] Checked out revision 21023.
+
+clean:
+   [delete] Deleting directory /home/spagobi/SpagoBI-4.0-source/SpagoBIJPXMLAEngine/ant-build
+
+init:
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIJPXMLAEngine/ant-build
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIJPXMLAEngine/ant-build/SpagoBIJPXMLAEngine/WEB-INF/classes
+
+svn.checkout:
+     [exec] Checked out revision 21023.
+
+clean:
+   [delete] Deleting directory /home/spagobi/SpagoBI-4.0-source/SpagoBIXMLSecurityProvider/ant-build
+
+init:
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIXMLSecurityProvider/ant-build
+
+svn.checkout:
+     [exec] Checked out revision 21023.
+
+clean:
+   [delete] Deleting directory /home/spagobi/SpagoBI-4.0-source/SpagoBILiferaySecurityProvider/ant-build
+
+init:
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBILiferaySecurityProvider/ant-build
+
+svn.checkout:
+     [exec] Checked out revision 21023.
+
+clean:
+   [delete] Deleting directory /home/spagobi/SpagoBI-4.0-source/SpagoBILdapSecurityProvider/ant-build
+
+init:
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBILdapSecurityProvider/ant-build
+
+svn.checkout:
+     [exec] Checked out revision 21023.
+
+svn.checkout:
+     [exec] Checked out revision 21023.
+     [exec] Checked out revision 21023.
+     [exec] Checked out revision 21023.
+     [exec] Checked out revision 21023.
+
+clean:
+   [delete] Deleting directory /home/spagobi/SpagoBI-4.0-source/SpagoBIAccessibilityEngine/ant-build
+
+init:
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIAccessibilityEngine/ant-build
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIAccessibilityEngine/ant-build/SpagoBIAccessibilityEngine/WEB-INF/classes
+
+svn.checkout:
+     [exec] Checked out revision 21023.
+
+clean:
+   [delete] Deleting directory /home/spagobi/SpagoBI-4.0-source/SpagoBICommonJEngine/ant-build
+
+init:
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBICommonJEngine/ant-build
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBICommonJEngine/ant-build/SpagoBICommonJEngine/WEB-INF/classes
+
+svn.checkout:
+     [exec] Checked out revision 21023.
+
+clean:
+   [delete] Deleting directory /home/spagobi/SpagoBI-4.0-source/SpagoBIConsoleEngine/ant-build
+
+init:
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIConsoleEngine/ant-build
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIConsoleEngine/ant-build/SpagoBIConsoleEngine/WEB-INF/classes
+
+svn.checkout:
+     [exec] Checked out revision 21023.
+
+clean:
+   [delete] Deleting directory /home/spagobi/SpagoBI-4.0-source/SpagoBIChartEngine/ant-build
+
+init:
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIChartEngine/ant-build
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIChartEngine/ant-build/SpagoBIChartEngine/WEB-INF/classes
+
+svn.checkout:
+     [exec] Checked out revision 21023.
+
+svn.checkout:
+     [exec] Checked out revision 21023.
+
+clean:
+   [delete] Deleting directory /home/spagobi/SpagoBI-4.0-source/SpagoBIMobileEngine/ant-build
+
+init:
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIMobileEngine/ant-build
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBIMobileEngine/ant-build/SpagoBIMobileEngine/WEB-INF/classes
+
+svn.checkout:
+     [exec] Checked out revision 21023.
+
+clean:
+   [delete] Deleting directory /home/spagobi/SpagoBI-4.0-source/SpagoBINetworkEngine/ant-build
+
+init:
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBINetworkEngine/ant-build
+    [mkdir] Created dir: /home/spagobi/SpagoBI-4.0-source/SpagoBINetworkEngine/ant-build/SpagoBINetworkEngine/WEB-INF/classes
+
+svn.checkout:
+     [exec] Checked out revision 21023.
+
+BUILD SUCCESSFUL
+Total time: 32 seconds

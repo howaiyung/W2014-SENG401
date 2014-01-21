@@ -1,0 +1,23 @@
+<project name="${project.name}" default="svn.checkout" basedir=".">
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  <!--   DEFINIZIONE FILE DI PROPERTY						                                      -->
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ --> 
+  <property file="build.properties"/>	
+
+
+
+  <!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+  <!--   SCARICO DEI SORGENTI AGGIORNATI DA CVS							                        -->
+  <!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+  <target name="svn.checkout" depends=""
+      description="Sincronizza l'applicazione con il repository">
+
+    <exec dir="${project.dir}" executable="svn" >
+      <arg line="checkout ${svn.base.location}/${project.name} ."/>
+    </exec>
+
+	 
+  </target>
+
+
+</project>
